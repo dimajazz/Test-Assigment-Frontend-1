@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dimajazz.github.io/Test-Assigment-Frontend-1/",
+  "homepage": "https://dimajazz.github.io/Test-Assigment-Frontend-1",
   "name": "tech-assignment",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
