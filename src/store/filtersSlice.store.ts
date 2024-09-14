@@ -26,7 +26,7 @@ export const filtersSlice = createSlice({
         setFilters: (state, action: PayloadAction<FiltersProps>) => {
             state.value = { ...state.value, ...action.payload };
         },
-        resetFilters: (state) => (state = initialState),
+        resetFilters: () => initialState,
     },
 });
 

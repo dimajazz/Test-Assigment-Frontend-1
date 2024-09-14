@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/users-table/users-table.component.tsx","./src/constants/api.constants.ts","./src/hooks/store.hook.ts","./src/services/fetch-users.service.ts","./src/services/filter-users.service.ts","./src/store/filtersslice.store.ts","./src/store/store.ts","./src/store/usersslice.store.ts"],"version":"5.6.2"}
